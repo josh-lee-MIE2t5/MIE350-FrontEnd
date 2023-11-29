@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "Home",
+      "isDefault": false
+    },
+    {
+      "id": "Trips",
+      "isDefault": false
+    },
+    {
+      "id": "User",
+      "isDefault": false
+    },
+    {
+      "id": "Vehicles",
+      "isDefault": false
+    },
+    {
+      "id": "Login Page",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F3F1C7",
+  "icon": "arrow-up",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

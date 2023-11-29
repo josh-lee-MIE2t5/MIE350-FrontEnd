@@ -1,0 +1,7 @@
+{{
+	{
+		"tripId": this.params.tripId,
+		"driverEmail": this.params.driverEmail,
+		"licensePlate": this.params.licensePlate
+	}		
+}}

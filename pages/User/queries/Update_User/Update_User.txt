@@ -1,0 +1,11 @@
+{{
+ {
+		"firstName": this.params.firstName,
+		"lastName": this.params.lastName,
+		"email": this.params.email,
+		"address": this.params.address,
+		"postalCode": this.params.postalCode,
+		"password": this.params.password,
+		"phoneNumber": this.params.phoneNumber
+	}
+}}

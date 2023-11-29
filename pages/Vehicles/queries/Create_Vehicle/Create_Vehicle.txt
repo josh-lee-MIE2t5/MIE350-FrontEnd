@@ -1,0 +1,11 @@
+{{
+	{
+		"licensePlate": this.params.licensePlate,
+		"make": this.params.make,
+		"model": this.params.model,
+		"type": this.params.type,
+		"passengerSeats": this.params.passengerSeats,
+		"color": this.params.color,
+		"ownerEmail": this.params.ownerEmail
+	}
+}}

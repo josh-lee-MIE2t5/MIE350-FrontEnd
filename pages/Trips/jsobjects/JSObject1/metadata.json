@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Trips",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Trips_JSObject1",
+  "deleted": false,
+  "gitSyncId": "6544717cf80baf2dfaf5f4a0_65448216f80baf2dfaf5f4e7"
+}
